@@ -1,0 +1,4 @@
+interface:
+  display_name: "受験英語ビジュアル解説"
+  short_description: "受験英語を最適な形式で解説し必要時にHTML化"
+  default_prompt: "Use $juken-english-visual-explainer to fully explain this entrance-exam English task in the clearest format, using an interactive HTML lesson when it improves understanding."
